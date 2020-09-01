@@ -30,7 +30,7 @@ twitter_username: unknown
 github_username:  unknown
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
