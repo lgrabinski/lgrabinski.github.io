@@ -1,5 +1,5 @@
 ---
-title: blog test
+title: Blog test entry
 ---
 
 Blog test entry
